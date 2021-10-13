@@ -1,0 +1,15 @@
+_merge = "deep"
+
+languageCode = 'fr-fr'
+title = 'Défenseur Des Droits'
+
+[module]
+[[module.imports]]
+path = 'github.com/disic/frago'
+
+[outputs]
+ home    = ["HTML","JSON"]
+
+[params]
+  organisation = "Défenseur Des Droits"
+  robots = "noindex, nofollow"
