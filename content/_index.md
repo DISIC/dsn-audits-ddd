@@ -1,6 +1,6 @@
 +++
 title = "Accueil"
-description = "Saisine du Défenseur des droits"
+description = "Défenseur des droits (ministère de la Justice) – Mise en conformité de démarches en ligne"
 type = "projects"
 +++
 
